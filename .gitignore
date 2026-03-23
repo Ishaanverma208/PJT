@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.pkl
+data/processed/
+outputs/
+.dist/
+*.egg-info/
+dist/
+build/
+data/raw/
